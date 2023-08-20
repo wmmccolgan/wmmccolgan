@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am a mid-career technologist finally getting credentialed through a part time Masters degree in software development.
+
+I'm currently working on java development and preparing for a semster with databases, web development and software engineering.
+
+I'm looking at blockchain at work currently. 
+
+I'm looking for help with data visualisation.
+
+Fun fact: First computers include Vic20, C64, Amstrad PCW8256, Apple II SE (running OS7).
 <!--
 **wmmccolgan/wmmccolgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
